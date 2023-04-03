@@ -1,4 +1,4 @@
-**MERN Todo App**
+**MERN Todo App**  
 A simple todo app built using the MERN (MongoDB, Express, React, Node.js) stack.
 
 Running Locally
